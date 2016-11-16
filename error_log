@@ -1,0 +1,22 @@
+[21-Mar-2016 23:43:57 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/fatealexa/public_html/wp-content/themes/athena/comments.php on line 25
+[21-Mar-2016 23:43:58 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/fatealexa/public_html/wp-content/themes/athena/comments.php on line 25
+[22-Mar-2016 00:49:07 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/fatealexa/public_html/wp-content/themes/athena/template-parts/content-single.php on line 61
+[22-Mar-2016 00:49:31 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/fatealexa/public_html/wp-content/themes/athena/template-parts/content-single.php on line 61
+[22-Mar-2016 00:56:42 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/fatealexa/public_html/wp-content/themes/athena/template-parts/content-single.php on line 60
+[22-Mar-2016 00:56:53 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/fatealexa/public_html/wp-content/themes/athena/template-parts/content-single.php on line 60
+[22-Mar-2016 00:57:17 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/fatealexa/public_html/wp-content/themes/athena/template-parts/content-single.php on line 60
+[22-Mar-2016 00:58:03 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/fatealexa/public_html/wp-content/themes/athena/template-parts/content-single.php on line 60
+[30-Mar-2016 01:18:48 UTC] PHP Warning:  include_once(analyticstracking.php): failed to open stream: No such file or directory in /home/fatealexa/public_html/wp-content/themes/zerif-lite/header.php on line 20
+[30-Mar-2016 01:18:48 UTC] PHP Warning:  include_once(): Failed opening 'analyticstracking.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fatealexa/public_html/wp-content/themes/zerif-lite/header.php on line 20
+[25-Apr-2016 09:46:31 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/fatealexa/public_html/wp-includes/class-wp-xmlrpc-server.php on line 580
+[25-Apr-2016 10:01:57 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/fatealexa/public_html/wp-includes/class-wp-xmlrpc-server.php on line 580
+[25-Apr-2016 10:16:23 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/fatealexa/public_html/wp-includes/class-wp-xmlrpc-server.php on line 580
+[25-Apr-2016 10:31:18 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/fatealexa/public_html/wp-includes/class-wp-xmlrpc-server.php on line 580
+[25-Apr-2016 10:45:10 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/fatealexa/public_html/wp-includes/class-wp-xmlrpc-server.php on line 580
+[25-Apr-2016 11:00:57 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/fatealexa/public_html/wp-includes/class-wp-xmlrpc-server.php on line 580
+[25-Apr-2016 11:15:25 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/fatealexa/public_html/wp-includes/class-wp-xmlrpc-server.php on line 580
+[25-Apr-2016 11:30:23 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/fatealexa/public_html/wp-includes/class-wp-xmlrpc-server.php on line 580
+[25-Apr-2016 11:46:04 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/fatealexa/public_html/wp-includes/class-wp-xmlrpc-server.php on line 580
+[25-Apr-2016 12:01:29 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/fatealexa/public_html/wp-includes/class-wp-xmlrpc-server.php on line 580
+[25-Apr-2016 12:18:28 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/fatealexa/public_html/wp-includes/class-wp-xmlrpc-server.php on line 580
+[30-Jun-2016 11:26:31 UTC] WordPress database error Lost connection to MySQL server during query for query UPDATE `wp_options` SET `option_value` = '1467285876' WHERE `option_name` = 'auto_updater.lock' made by do_action_ref_array, call_user_func_array, wp_version_check, do_action('wp_maybe_auto_update'), call_user_func_array, wp_maybe_auto_update, WP_Automatic_Updater->run, update_option
